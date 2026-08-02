@@ -58,10 +58,6 @@ An interactive visual map showing my journey from learning programming to buildi
 
 The website contains hidden interactive features and Easter eggs for visitors to discover.
 
-### ⚡ GOJO Easter Egg
-
-A hidden feature inspired by one of my favorite anime characters.
-
 ### 📱 Responsive Design
 
 The website adapts to different screen sizes so it can be used on both desktop and mobile devices.
