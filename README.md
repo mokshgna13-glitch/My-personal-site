@@ -1,115 +1,135 @@
 # 🚀 MOKSHGNA — Personal Website
 
-Welcome to my personal website! 🌌
+Welcome to my personal website and interactive **Project Galaxy**! 🌌
 
 This website is my digital space where I document my journey as a student, programmer, builder, robotics explorer, and future entrepreneur.
-
-Built as part of my journey with **Hack Club Treasure** and expanded for the **Stardance Personal Site mission**.
 
 ---
 
 ## 🌟 About the Project
 
-I wanted to create more than a normal portfolio website. My goal was to make a futuristic and interactive digital space that represents my projects, learning journey, ideas, achievements, and future goals.
+I built this website as a custom portfolio to showcase:
 
-The website includes:
+- My learning journey
+- My technology interests
+- My projects
+- My future goals
+- My ideas and experiments
 
-- 🏠 A futuristic home page
-- 👤 About Me section
+The website includes a special interactive feature called **Project Galaxy**, where projects and parts of my journey are represented as planets.
+
+---
+
+## 🪐 Project Galaxy
+
+Project Galaxy is a custom interactive solar-system experience.
+
+Each planet represents a different part of my journey:
+
+| Planet | Represents |
+|---|---|
+| ☀️ Sun | Mokshgna / Main Profile |
+| ☿ Mercury | Learning Journey |
+| ♀ Venus | Skills |
+| 🌍 Earth | Personal Website |
+| ♂ Mars | M-01 |
+| ♃ Jupiter | Future Projects |
+| ♄ Saturn | Achievements |
+| ♅ Uranus | Big Ideas |
+| ♆ Neptune | Future Vision |
+
+### Features
+
+- 🪐 Clickable planets
+- 🚀 Animated rocket travel
+- ✨ Planet selection effects
+- 📦 Dynamic information panels
+- 🌌 Animated star background
+- ⌨️ Keyboard navigation
+- ⬅️ Previous and next controls
+- 📊 Explored-world counter
+- 📱 Responsive design
+
+When a planet is selected, the rocket travels from the current planet to the selected destination. After the animation finishes, the information panel updates with details about that world.
+
+---
+
+## 🧠 Other Website Sections
+
+The website also contains:
+
+- 🏠 Futuristic home page
+- 👤 About Me
 - 🧠 Skills and learning journey
-- 🏆 Achievements section
-- 📚 Education timeline
-- 🌌 Interactive Project Universe
-- 🤖 M-01 project dashboard
-- 🗺️ Interactive Treasure Journey Map
-- 🔐 Hidden Secret Mode
-- ⚡ GOJO Easter Egg
-- 📜 Build log
-- ✨ Custom animations and visual effects
-- 📱 Responsive design for mobile devices
+- 💻 Projects
+- 🪐 Interactive Project Galaxy
+- 🤖 M-01 project information
+- 🚀 Future vision
+- 📱 Mobile-responsive layout
 
 ---
 
 ## 🛠️ Built With
 
-- **HTML5** — Website structure and content
-- **CSS3** — Custom styling, layouts, animations, effects, and responsive design
-- **JavaScript** — Interactive features, project panels, secret modes, and dynamic effects
+- **HTML5** — Website structure
+- **CSS3** — Custom styling, animations, responsive design, planets, rocket, and visual effects
+- **JavaScript** — Planet interaction, rocket movement, dynamic content, navigation, and explored-world tracking
+
+No website builder or template was used.
 
 ---
 
-## ✨ Main Features
+## ✨ Technical Features
 
-### 🌌 Project Universe
+The Project Galaxy system uses JavaScript to:
 
-My projects are displayed as planets in a futuristic universe.
-
-Clicking a project opens a detailed information panel with more information about the project.
-
-### 🤖 M-01 Dashboard
-
-An interactive dashboard showing the mission, ideas, and development progress of my M-01 robotic companion project.
-
-### 🗺️ Treasure Journey
-
-An interactive visual map showing my journey from learning programming to building larger projects and working toward future goals.
-
-### 🔐 Secret Mode
-
-The website contains hidden interactive features and Easter eggs for visitors to discover.
-
-### 📱 Responsive Design
-
-The website adapts to different screen sizes so it can be used on both desktop and mobile devices.
-
----
-
-## 🧩 Challenges
-
-Some of the most challenging parts of the project were:
-
-- Organizing many website sections into one connected experience
-- Creating interactive features using JavaScript
-- Designing the Project Universe
-- Building custom animations and visual effects
-- Making the website responsive on smaller screens
-- Keeping the design consistent across all sections
-- Testing and fixing bugs in the website
-
----
-
-## 🧠 What I Learned
-
-While building this project, I improved my understanding of:
-
-- HTML page structure
-- CSS layouts and responsive design
-- CSS animations and visual effects
-- JavaScript events and DOM manipulation
-- Organizing a larger front-end project
-- Git and GitHub
-- Making frequent commits
-- Deploying a public website
+- Detect the selected planet
+- Calculate planet positions
+- Move the rocket between destinations
+- Update the active planet
+- Change the project information dynamically
+- Track explored worlds
+- Support keyboard navigation
+- Keep the rocket positioned correctly when the screen size changes
 
 ---
 
 ## 🤖 AI Usage
 
-AI was used **only for debugging** during the development of this project.
+AI was used in a limited and transparent way during development.
 
-I used AI to help identify and understand some HTML, CSS, and JavaScript errors while fixing bugs.
+AI helped with:
 
-The website was not generated entirely by AI. I built the website myself, made the design choices, created and customized the sections, selected the features and content, and tested the project.
+- Debugging some HTML, CSS, and JavaScript issues
+- Reviewing parts of the code
+- Improving and organizing parts of the README
+
+The website design, project concept, content, feature choices, custom styling decisions, and development direction were created and controlled by me.
+
+I did not use AI to generate a complete website automatically or use a website builder.
 
 ---
 
-## 🚀 Running the Project
+## ▶️ How to Run
 
-You can view the deployed website using the **Try Project** link on Hack Club Stardance.
+You can open the deployed website using the project link.
 
 To run the project locally:
 
-1. Clone the repository:
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open `index.html` in a web browser.
 
-```bash
-git clone YOUR_REPOSITORY_LINK
+No installation or external packages are required.
+
+---
+
+## 📁 Project Structure
+
+```text
+personal-website/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
