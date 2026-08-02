@@ -47,7 +47,4 @@ A project dashboard showing the progress and mission of M-01.
 
 ### 🔐 Secret Mode
 
-Enter:
-
-```text
-GOJO
+AI usage: I used AI for limited help with improving and organizing parts of the README. The website itself was built by me using HTML and custom CSS, with my own design choices and content.
