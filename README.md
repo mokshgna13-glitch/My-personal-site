@@ -1,181 +1,73 @@
-# 🚀 MOKSHGNA — Personal Portfolio Website
+# My Personal Website
 
-Welcome to my personal website! 🌌
+Hi! I’m Mokshgna, and this is my personal website.
 
-This website is my digital space where I showcase my journey as a **student, programmer, builder, robotics explorer, and future entrepreneur**. It combines a futuristic portfolio design with interactive projects, space-themed experiences, animations, and hidden features.
+I made this website to show my interests, projects, goals, and journey in technology. I wanted it to be more interesting than a normal portfolio, so I added space-themed sections, animations, interactive features, and some hidden things to explore.
 
-## 🌟 About the Project
+## What I made
 
-I created this website as part of my journey with **Hack Club Treasure** and continued improving it for **Stardance**.
+The website has different sections about me and my journey.
 
-Instead of making a basic portfolio with only text and images, I designed an interactive experience where visitors can explore my projects, goals, learning journey, and future ideas.
+Some of the things I added are:
 
-The website includes:
+- A home page
+- An about me section
+- My skills and interests
+- My achievements and education
+- A projects section
+- A space or galaxy section where visitors can explore projects
+- An M-01 section for my robotics idea
+- A journey section
+- Hidden features and Easter eggs
+- A small robot at the bottom of the screen
+- A rocket button that takes the user back to the top
 
-* 🏠 Futuristic Home Page
-* 👤 About Me Section
-* 🧠 Skills and Learning Journey
-* 🏆 Achievements
-* 📚 Education Timeline
-* 🌌 Interactive Project Universe
-* 🚀 Animated Space and Rocket Experience
-* 🤖 M-01 Project Dashboard
-* 🤖 Interactive M-01 Robot Assistant
-* 🗺️ Interactive Treasure Journey Map
-* 🔐 Hidden Secret Mode
-* ⚡ GOJO Easter Egg
-* 📜 Build Log
-* 📱 Responsive Design for Mobile Devices
+I used HTML for the structure, CSS for the design and animations, and JavaScript to make parts of the website interactive.
 
-## ✨ Main Features
+## How I worked on it
 
-### 🌌 Project Universe
+I started by making the basic structure of the website and adding information about myself. After that, I designed the different sections using CSS.
 
-Projects are displayed as planets in an interactive space environment.
+Then I started adding more interactive features. I added the galaxy section because I wanted my projects to feel like places that visitors could explore instead of only showing them as normal cards.
 
-Visitors can select and explore different projects while viewing information about their purpose, progress, and future plans.
+I also worked on animations, buttons, popups, and the M-01 section. Some features did not work correctly at first, so I tested them, checked the code, and fixed problems while building.
 
-### 🚀 Interactive Space Journey
+As the project grew, I kept adding new sections and improving the design. I also tested the website after making changes and checked that it still worked properly.
 
-The website includes an animated rocket journey between planets.
+## Challenges
 
-The rocket moves through the space experience when visitors explore different destinations, making the portfolio feel more like an interactive project universe than a normal webpage.
+One challenge was keeping all the sections working together because the website became much bigger than my first version.
 
-### 🤖 M-01 Dashboard
+Another challenge was adding animations without breaking other parts of the website. I also had to make sure the website looked okay on smaller screens.
 
-M-01 is one of my major robotics ideas.
+Some JavaScript features did not work on the first try, so I had to check whether the HTML IDs and classes matched the JavaScript code.
 
-The dashboard introduces its mission, development progress, features, and future possibilities.
+## What I am proud of
 
-### 🤖 M-01 Robot Assistant
+I am proud that I turned a simple personal website into something more interactive.
 
-A small robot assistant stays in the bottom-right corner of the website.
+My favorite parts are the galaxy section, the M-01 section, the animations, and the hidden features. I also like that the website represents my interests in programming, robotics, AI, space, and future projects.
 
-Visitors can click the robot to open a message and learn more about the portfolio. The robot also adds personality and makes the website feel more interactive.
+## Built with
 
-### 🗺️ Treasure Journey
+- HTML
+- CSS
+- JavaScript
 
-The interactive journey map shows my progress from learning programming to building projects and working toward bigger future goals.
+## How to view the project
 
-### 🔐 Secret Mode
+Open the deployed website using the project link.
 
-The website contains hidden interactions and Easter eggs for visitors to discover.
+You can explore the different sections, try the interactive features, and look for the hidden Easter eggs.
 
-## 🛠️ Built With
+## AI usage
 
-* **HTML5** — Website structure and content
-* **CSS3** — Custom styling, animations, layouts, effects, and responsive design
-* **JavaScript** — Interactive features, navigation, animations, project details, and robot interactions
+I used AI mainly for debugging when I got stuck with HTML, CSS, or JavaScript problems. I also used it to help me understand some errors.
 
-## 📂 Project Structure
+The website content, ideas, sections, design choices, and the features I decided to add were made and chosen by me. I built the project by editing and testing the code myself.
 
-```text
-personal-website/
-│
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-└── assets/
-```
+## Future ideas
 
-## 🧪 How to Run
+In the future, I want to add more projects, improve the animations, and make the website even more interactive.
 
-You can visit the deployed website using the **Try Project** link.
-
-To run the project locally:
-
-1. Clone the repository:
-
-```bash
-git clone YOUR-REPOSITORY-LINK
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in a web browser.
-
-No installation or additional dependencies are required.
-
-## 📱 Responsive Design
-
-The website is designed to work on:
-
-* Desktop computers 💻
-* Laptops 🖥️
-* Tablets 📱
-* Mobile devices 📲
-
-## 🧠 What I Learned
-
-While building this project, I practiced:
-
-* Creating multi-section websites
-* Organizing HTML, CSS, and JavaScript files
-* Building responsive layouts
-* Creating custom animations
-* Designing interactive user interfaces
-* Connecting JavaScript interactions to website elements
-* Using Git and GitHub
-* Deploying a website with GitHub Pages
-* Improving a project through testing and feedback
-
-## 💡 Challenges
-
-Some challenging parts included:
-
-* Connecting multiple interactive sections without breaking the rest of the website
-* Creating smooth space and rocket animations
-* Keeping the design responsive on different screen sizes
-* Organizing the growing amount of HTML, CSS, and JavaScript
-* Adding new features while keeping the portfolio easy to explore
-
-## 🏆 What I Am Proud Of
-
-I am proud that this became more than a simple personal webpage.
-
-It is a portfolio that represents my interests in:
-
-* Programming 💻
-* Robotics 🤖
-* Artificial Intelligence 🧠
-* Space 🌌
-* Technology ⚡
-* Entrepreneurship 🚀
-
-The website also shows both my current projects and the larger ideas I want to build in the future.
-
-## 🤖 AI Usage
-
-AI was used in a limited and supportive way:
-
-* Debugging some HTML, CSS, and JavaScript issues
-* Helping identify and understand coding errors
-* Improving and organizing parts of this README
-
-The website’s **personal content, project ideas, layout decisions, design direction, custom styling, features, and final implementation choices were created and assembled by me**.
-
-AI was not used to generate the entire website automatically.
-
-## 🔮 Future Plans
-
-Possible future improvements include:
-
-* More interactive project pages
-* Additional M-01 features
-* New space environments
-* More animations and visual effects
-* A project update system
-* More portfolio projects
-* Improved accessibility
-* More hidden Easter eggs
-
-## 👤 Creator
-
-**Mokshgna**
-
-Student • Programmer • Builder • Robotics Explorer • Future Entrepreneur 🚀
-
----
-
-⭐ If you enjoyed exploring my website, consider starring the repository!
+I also hope that I will keep improving and use these skills to become successful and do great things one day.
