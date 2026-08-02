@@ -1,134 +1,86 @@
 # 🚀 MOKSHGNA — Personal Website
 
-Welcome to my personal website and interactive **Project Galaxy**! 🌌
+Welcome to my personal website and interactive project universe! 🌌
 
-This website is my digital space where I document my journey as a student, programmer, builder, robotics explorer, and future entrepreneur.
+This website is my digital space where I document my journey as a student, programmer, builder, robotics explorer and future entrepreneur.
 
----
+## 🌟 About The Project
 
-## 🌟 About the Project
+This project was created as part of my Hack Club journey.
 
-I built this website as a custom portfolio to showcase:
+The website includes:
 
-- My learning journey
-- My technology interests
-- My projects
-- My future goals
-- My ideas and experiments
-
-The website includes a special interactive feature called **Project Galaxy**, where projects and parts of my journey are represented as planets.
-
----
-
-## 🪐 Project Galaxy
-
-Project Galaxy is a custom interactive solar-system experience.
-
-Each planet represents a different part of my journey:
-
-| Planet | Represents |
-|---|---|
-| ☀️ Sun | Mokshgna / Main Profile |
-| ☿ Mercury | Learning Journey |
-| ♀ Venus | Skills |
-| 🌍 Earth | Personal Website |
-| ♂ Mars | M-01 |
-| ♃ Jupiter | Future Projects |
-| ♄ Saturn | Achievements |
-| ♅ Uranus | Big Ideas |
-| ♆ Neptune | Future Vision |
-
-### Features
-
-- 🪐 Clickable planets
-- 🚀 Animated rocket travel
-- ✨ Planet selection effects
-- 📦 Dynamic information panels
-- 🌌 Animated star background
-- ⌨️ Keyboard navigation
-- ⬅️ Previous and next controls
-- 📊 Explored-world counter
-- 📱 Responsive design
-
-When a planet is selected, the rocket travels from the current planet to the selected destination. After the animation finishes, the information panel updates with details about that world.
-
----
-
-## 🧠 Other Website Sections
-
-The website also contains:
-
-- 🏠 Futuristic home page
-- 👤 About Me
-- 🧠 Skills and learning journey
-- 💻 Projects
-- 🪐 Interactive Project Galaxy
-- 🤖 M-01 project information
-- 🚀 Future vision
-- 📱 Mobile-responsive layout
-
----
+- 🚀 Futuristic landing page
+- 👤 About Me section
+- 🧠 Skills and learning dashboard
+- 🏆 Achievement section
+- 📚 Future education timeline
+- 🌌 Interactive Project Universe
+- 🪐 Vertical planet navigation
+- 🚀 Animated CSS rocket travel system
+- 🤖 M-01 project dashboard
+- 🧪 AI Lab
+- 🎥 ExplainX project
+- 💡 Future Startup mission
+- 🕳️ Unknown Future black-hole mode
+- 🔐 Hidden Secret Mode
+- ⚡ Infinity Easter Egg
+- 📜 Website build log
+- 📱 Responsive mobile design
 
 ## 🛠️ Built With
 
-- **HTML5** — Website structure
-- **CSS3** — Custom styling, animations, responsive design, planets, rocket, and visual effects
-- **JavaScript** — Planet interaction, rocket movement, dynamic content, navigation, and explored-world tracking
+- HTML5
+- CSS3
+- JavaScript
 
-No website builder or template was used.
+## ✨ Main Feature
 
----
+### 🌌 Project Space Route
 
-## ✨ Technical Features
+Projects are represented as planets.
 
-The Project Galaxy system uses JavaScript to:
+Click a destination and the rocket travels vertically through the route before opening the project information panel.
 
-- Detect the selected planet
-- Calculate planet positions
-- Move the rocket between destinations
-- Update the active planet
-- Change the project information dynamically
-- Track explored worlds
-- Support keyboard navigation
-- Keep the rocket positioned correctly when the screen size changes
+The rocket is built using CSS shapes instead of a rocket emoji.
 
----
+### 🤖 M-01
+
+M-01 is my concept for a smart AI companion with useful modes, personality and future hardware features.
+
+### 🔐 Secret Mode
+
+Click the diamond button in the navigation bar to activate a hidden visual mode.
+
+### ⚡ Infinity Mode
+
+The contact section contains a hidden Infinity-themed Easter egg.
 
 ## 🤖 AI Usage
 
-AI was used in a limited and transparent way during development.
+AI was used only for:
 
-AI helped with:
+- Debugging code
+- Finding and fixing JavaScript issues
+- Explaining CSS concepts
+- Helping organize parts of the README
 
-- Debugging some HTML, CSS, and JavaScript issues
-- Reviewing parts of the code
-- Improving and organizing parts of the README
+The website design, project ideas, content, feature choices and customizations were created and directed by me.
 
-The website design, project concept, content, feature choices, custom styling decisions, and development direction were created and controlled by me.
+## 🚀 Run Locally
 
-I did not use AI to generate a complete website automatically or use a website builder.
-
----
-
-## ▶️ How to Run
-
-You can open the deployed website using the project link.
-
-To run the project locally:
-
-1. Download or clone the repository.
+1. Download or clone this repository.
 2. Open the project folder.
-3. Open `index.html` in a web browser.
+3. Open `index.html` in a browser.
 
-No installation or external packages are required.
+## 🌐 Deployment
 
----
+The website can be deployed using GitHub Pages.
 
 ## 📁 Project Structure
 
 ```text
-personal-website/
-│
+personal-site/
 ├── index.html
 ├── style.css
 ├── script.js
